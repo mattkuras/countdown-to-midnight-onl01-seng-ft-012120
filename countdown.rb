@@ -13,7 +13,8 @@ end
 def countdown_with_sleep
   counter = 10 
   while counter > 0 
-  puts "#{counter} SECOND(S)!"(sl
+  puts "#{counter} SECOND(S)!"
+  sleep 
   counter -= 1 
 
 end
