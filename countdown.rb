@@ -12,9 +12,9 @@ end
 
 
 def meth
-  puts "hello, gimme input"
+  pts "hello, gimme input"
 input = gets.chomp
-while input != "e"
+while inpuut != "e"
 puts "bonjour"
 input = gets.chomp
 end
