@@ -9,3 +9,16 @@ def countdown(number)
 end
   return "HAPPY NEW YEAR!"
 end
+
+
+def meth
+  puts "hello, gimme input"
+input = gets.chomp
+while input != "e"
+puts "bonjour"
+input = gets.chomp
+end
+  puts "thanks for playing"
+end
+
+meth
